@@ -3,6 +3,9 @@
 * Reverse Tower Defense
 * COMPO Entry
 
+### Licence
+[Creative Commons BY NC SA (attribution, no commercial use, share alike)](https://creativecommons.org/licenses/by-nc-sa/2.0/)
+
 ### Contributors
 * Code, Art: Yann Pellegrini
 * Thanks to Richard Davey for Phaser.io
